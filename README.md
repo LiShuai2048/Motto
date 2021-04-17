@@ -1,2 +1,4 @@
 # Motto
-吾日三省吾身
+
+- Transparency brings trust.
+- 少说话，多做事。
